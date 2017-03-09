@@ -1,0 +1,82 @@
+[
+    {
+    "posX": -5,
+    "posY": -5,
+    "colorR": 1.0,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    },
+    {
+    "posX": 0,
+    "posY": 0,
+    "colorR": 0.3,
+    "colorG": 1.0,
+    "colorB": 0.3,
+    "colorAlpha": 0.5
+    },
+    {
+    "posX": 5,
+    "posY": 5,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 1.0,
+    "colorAlpha": 0.5
+    },
+    {
+    "posX": -5,
+    "posY": 5,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    },
+    {
+    "posX": 5,
+    "posY": -5,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    },
+    {
+    "posX": -3,
+    "posY": -3,
+    "colorR": 1.0,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    },
+    {
+    "posX": 1,
+    "posY": 1,
+    "colorR": 0.3,
+    "colorG": 1.0,
+    "colorB": 0.3,
+    "colorAlpha": 0.5
+    },
+    {
+    "posX": 3,
+    "posY": 3,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 1.0,
+    "colorAlpha": 0.5
+    },
+    {
+    "posX": -3,
+    "posY": 3,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    },
+    {
+    "posX": 3,
+    "posY": -3,
+    "colorR": 0.3,
+    "colorG": 0.3,
+    "colorB": 0.3,
+    "colorAlpha": 1.0
+    }
+]
