@@ -190,10 +190,11 @@ export class AppComponent {
 				if(lastPosI && lastPosJ && lastObject && lastObject.translate) {
 					if(posI != lastPosI) {
 						console.log("out lastPosI"+posI+lastPosI);
+						var objectEval = objects[lastPosI][0][0];
 						lastObject.translate = false;
 						objects[lastPosI] = [];
 						objects[lastPosI][0] = [];
-						objects[lastPosI][0].push(lastObject);
+						objects[lastPosI][0].push(objectEval);
 						lastObject = null;
 						lastPosI = null;
 						lastPosJ = null;
