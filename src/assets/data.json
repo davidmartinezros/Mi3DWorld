@@ -3,45 +3,45 @@
     "posX": 1,
     "posY": 0,
     "posZ": 0,
-    "colorR": 1.0,
-    "colorG": 0.3,
-    "colorB": 0.3,
+    "colorR": 0.1,
+    "colorG": 1.0,
+    "colorB": 0.1,
     "colorAlpha": 1.0
     },
     {
     "posX": 2,
     "posY": 0,
     "posZ": 0,
-    "colorR": 1.0,
-    "colorG": 0.3,
-    "colorB": 0.3,
+    "colorR": 0.1,
+    "colorG": 1.0,
+    "colorB": 0.1,
     "colorAlpha": 1.0
     },
     {
     "posX": 3,
     "posY": 0,
     "posZ": 0,
-    "colorR": 1.0,
-    "colorG": 0.3,
-    "colorB": 0.3,
+    "colorR": 0.1,
+    "colorG": 1.0,
+    "colorB": 0.1,
     "colorAlpha": 1.0
     },
     {
     "posX": 4,
     "posY": 0,
     "posZ": 0,
-    "colorR": 1.0,
-    "colorG": 0.3,
-    "colorB": 0.3,
+    "colorR": 0.1,
+    "colorG": 1.0,
+    "colorB": 0.1,
     "colorAlpha": 1.0
     },
     {
     "posX": 5,
     "posY": 0,
     "posZ": 0,
-    "colorR": 1.0,
-    "colorG": 0.3,
-    "colorB": 0.3,
+    "colorR": 0.1,
+    "colorG": 1.0,
+    "colorB": 0.1,
     "colorAlpha": 1.0
     }
 ]
